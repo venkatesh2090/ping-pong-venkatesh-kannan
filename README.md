@@ -1,8 +1,12 @@
 # Ping Pong Application
 
 ## Running instruction
-
-```sh
-./gradlew bootRun
-```
-
+- To run the application locally.
+    ```sh
+    ./gradlew bootRun
+    ```
+  For windows use `.\gradlew.bat` instead of `./gradlew`.
+- To package the application
+    ```sh
+    ./gradlew build
+    ```
